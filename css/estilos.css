@@ -1,0 +1,25 @@
+.fondo{
+    background-color: black;
+}
+.card{
+    border-style: dashed; color: blue;
+    border-width: 5px;
+}
+body{
+    background: blanchedalmond;
+}
+h1{
+    text-align: center;
+}
+.caja{
+    margin: auto;
+    background: skyblue;
+    width: 30%;
+    height: 30%;
+    padding: 10px;
+    border-radius: 2%;
+    border: 2px solid blue;
+}
+.tabla{
+    margin: auto;
+}
